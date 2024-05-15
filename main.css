@@ -1,0 +1,17 @@
+button {
+    background-color: black;
+    color: yellow;
+    height: 30px;
+    width: 65px;
+    border: none;
+    border-radius: 2px;
+    position: relative;
+    
+}
+
+input {
+    border-color: black;
+    border-radius: 2px;
+    height: 30px;
+    shape-margin: 3px;
+}
